@@ -2,6 +2,7 @@
   width: 100px;
   height: 50px;
   margin-bottom: 5px;
+  border-radius: 20px;
 }
 .calculator {
   width: 415px;
@@ -11,7 +12,10 @@
 }
 
 body {
-  background-image: url("../media/images/bg.avif");
+  background-image: url("../media/images/photo-1683884361203-69b7f969e9ff.avif");
   background-size: cover;
-  background-repeat: no-repeat;
+  /* background-repeat: no-repeat; */
+  /* background-position: center; */
 }
+
+
